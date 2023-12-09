@@ -1,0 +1,14 @@
+body{
+    background-color: #191919;
+}
+
+.nav-container{
+    background-color: #1E1E1E;
+}
+.nav-title{
+    color: white;
+    font-family: "Arial Black";
+}
+.toolb{
+    background-color: #1E1E1E !important;
+}
